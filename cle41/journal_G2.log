@@ -1,2 +1,6 @@
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche G2 : 6 courses, 0 déjà faites, 6 à faire, sur 4 processus
+  B_GRAND2_0.0625_0.0003     fait en   22.3 min   [1/6]   écoulé   22.3 min
+  B_GRAND2_0.0625_WD0        fait en   22.3 min   [2/6]   écoulé   22.3 min
+  B_GRAND2_0.0625_0.001      fait en   22.4 min   [3/6]   écoulé   22.4 min
+  B_GRAND2_0.03125_0.001     fait en   22.4 min   [4/6]   écoulé   22.4 min
