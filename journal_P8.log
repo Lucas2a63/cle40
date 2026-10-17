@@ -20,3 +20,8 @@ tranche P8 : 24 courses, 0 déjà faites, 24 à faire, sur 4 processus
   mlp_INDEP_s20            fait en   23.9 min   [18/24]   écoulé  119.6 min
   mlp_INDEP_s21            fait en   23.9 min   [19/24]   écoulé  120.1 min
   mlp_SYS_s21              fait en   24.0 min   [20/24]   écoulé  120.1 min
+  mlp_SYS_s22              fait en   23.9 min   [21/24]   écoulé  143.4 min
+  mlp_INDEP_s22            fait en   23.8 min   [22/24]   écoulé  143.4 min
+  mlp_SYS_s23              fait en   23.6 min   [23/24]   écoulé  143.7 min
+  mlp_INDEP_s23            fait en   23.7 min   [24/24]   écoulé  143.8 min
+TRANCHE P8 TERMINÉE — 24 courses dans resultats/tranche_P8.json
