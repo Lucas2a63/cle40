@@ -4,3 +4,7 @@ tranche G1 : 7 courses, 0 déjà faites, 7 à faire, sur 4 processus
   B_GRAND2_0.015625_WD0      fait en   23.1 min   [2/7]   écoulé   23.2 min
   B_GRAND2_0.03125_0.0003    fait en   23.2 min   [3/7]   écoulé   23.2 min
   B_GRAND2_0.015625_0.0003   fait en   23.3 min   [4/7]   écoulé   23.3 min
+  B_GRAND2_0.015625_0.01     fait en   23.0 min   [5/7]   écoulé   46.2 min
+  B_GRAND2_0.015625_0.001    fait en   23.2 min   [6/7]   écoulé   46.3 min
+  B_GRAND2_0.015625_0.003    fait en   23.1 min   [7/7]   écoulé   46.3 min
+TRANCHE G1 TERMINÉE — 7 courses dans resultats/tranche_G1.json
