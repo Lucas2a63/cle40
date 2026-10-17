@@ -1,2 +1,7 @@
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche P5 : 4 courses, 0 déjà faites, 4 à faire, sur 4 processus
+  cnn_INDEP_s9             fait en  248.3 min   [1/4]   écoulé  248.3 min
+  cnn_INDEP_s8             fait en  249.2 min   [2/4]   écoulé  249.2 min
+  cnn_SYS_s8               fait en  249.8 min   [3/4]   écoulé  249.8 min
+  cnn_SYS_s9               fait en  250.1 min   [4/4]   écoulé  250.1 min
+TRANCHE P5 TERMINÉE — 4 courses dans resultats/tranche_P5.json
