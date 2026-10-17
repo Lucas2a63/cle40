@@ -1,0 +1,6 @@
+machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
+tranche G7 : 25 courses, 0 déjà faites, 25 à faire, sur 4 processus
+  B_COURT2_0.5_0.003         fait en    0.7 min   [1/25]   écoulé    0.7 min
+  B_COURT2_0.5_WD0           fait en    0.7 min   [2/25]   écoulé    0.7 min
+  B_COURT2_0.5_0.001         fait en    0.7 min   [3/25]   écoulé    0.7 min
+  B_COURT2_0.5_0.0003        fait en    0.7 min   [4/25]   écoulé    0.7 min
