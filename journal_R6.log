@@ -1,3 +1,6 @@
 balayage40_choix.json : sha256 8e7c4ea62a0dc7b96778617d1e2c0092d1abd3daaad45c15987ec0abe2c096b6
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche R6 : 8 courses, 0 déjà faites, 8 à faire, sur 4 processus
+  cnn_SEUL10_s11           fait en  133.6 min   [1/8]   écoulé  133.6 min
+  cnn_SEUL_s11             fait en  134.3 min   [2/8]   écoulé  134.3 min
+  cnn_SEUL_s10             fait en  135.5 min   [3/8]   écoulé  135.5 min
