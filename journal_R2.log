@@ -3,3 +3,4 @@ machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche R2 : 8 courses, 0 déjà faites, 8 à faire, sur 4 processus
   cnn_SEUL_s2              fait en   94.4 min   [1/8]   écoulé   94.4 min
   cnn_SEUL10_s3            fait en   94.6 min   [2/8]   écoulé   94.7 min
+  cnn_SEUL_s3              fait en   95.7 min   [3/8]   écoulé   95.8 min
