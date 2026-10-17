@@ -1,2 +1,7 @@
 machine : 4 cœurs, 15.3 Go disponibles, numpy 2.5.3
 tranche B3 : 21 courses, 0 déjà faites, 21 à faire, sur 4 processus
+  B_cnn_COURT_2            fait en    3.3 min   [1/21]   écoulé    3.3 min
+  B_cnn_COURT_0.25         fait en    3.3 min   [2/21]   écoulé    3.3 min
+  B_cnn_COURT_0.5          fait en    3.3 min   [3/21]   écoulé    3.3 min
+  B_cnn_COURT_1            fait en    3.3 min   [4/21]   écoulé    3.3 min
+  B_cnn_COURT_0.125        fait en    3.0 min   [5/21]   écoulé    6.3 min
