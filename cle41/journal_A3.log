@@ -13,3 +13,12 @@ tranche A3 : 20 courses, 0 déjà faites, 20 à faire, sur 4 processus
   mlp_GRAND_s32              fait en   23.7 min   [10/20]   écoulé   75.6 min
   mlp_GRAND_s34              fait en   23.7 min   [11/20]   écoulé   75.9 min
   mlp_GRAND_s35              fait en   23.8 min   [12/20]   écoulé   76.0 min
+  mlp_SEUL_s33               fait en   14.3 min   [13/20]   écoulé   89.9 min
+  mlp_SEUL_s32               fait en   14.4 min   [14/20]   écoulé   89.9 min
+  mlp_SEUL_s34               fait en   14.3 min   [15/20]   écoulé   90.1 min
+  mlp_SEUL_s35               fait en   14.4 min   [16/20]   écoulé   90.4 min
+  mlp_COURT_s32              fait en    0.8 min   [17/20]   écoulé   90.7 min
+  mlp_COURT_s33              fait en    0.8 min   [18/20]   écoulé   90.7 min
+  mlp_COURT_s34              fait en    0.7 min   [19/20]   écoulé   90.9 min
+  mlp_COURT_s35              fait en    0.8 min   [20/20]   écoulé   91.2 min
+TRANCHE A3 TERMINÉE — 20 courses dans resultats/tranche_A3.json
