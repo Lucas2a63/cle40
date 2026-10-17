@@ -8,3 +8,21 @@ tranche G7 : 25 courses, 0 déjà faites, 25 à faire, sur 4 processus
   B_COURT2_0.5_0.01          fait en    0.7 min   [6/25]   écoulé    1.3 min
   B_COURT2_0.25_0.0003       fait en    0.7 min   [7/25]   écoulé    1.3 min
   B_COURT2_0.25_0.001        fait en    0.7 min   [8/25]   écoulé    1.4 min
+  B_COURT2_0.25_0.003        fait en    0.6 min   [9/25]   écoulé    1.9 min
+  B_COURT2_0.125_0.0003      fait en    0.6 min   [10/25]   écoulé    2.0 min
+  B_COURT2_0.25_0.01         fait en    0.7 min   [11/25]   écoulé    2.0 min
+  B_COURT2_0.125_WD0         fait en    0.7 min   [12/25]   écoulé    2.0 min
+  B_COURT2_0.125_0.001       fait en    0.6 min   [13/25]   écoulé    2.6 min
+  B_COURT2_0.125_0.003       fait en    0.6 min   [14/25]   écoulé    2.6 min
+  B_COURT2_0.125_0.01        fait en    0.6 min   [15/25]   écoulé    2.6 min
+  B_COURT2_0.0625_WD0        fait en    0.6 min   [16/25]   écoulé    2.7 min
+  B_COURT2_0.0625_0.0003     fait en    0.6 min   [17/25]   écoulé    3.2 min
+  B_COURT2_0.0625_0.003      fait en    0.6 min   [18/25]   écoulé    3.3 min
+  B_COURT2_0.0625_0.001      fait en    0.6 min   [19/25]   écoulé    3.3 min
+  B_COURT2_0.0625_0.01       fait en    0.6 min   [20/25]   écoulé    3.3 min
+  B_COURT2_0.03125_WD0       fait en    0.6 min   [21/25]   écoulé    3.8 min
+  B_COURT2_0.03125_0.003     fait en    0.6 min   [22/25]   écoulé    3.9 min
+  B_COURT2_0.03125_0.001     fait en    0.6 min   [23/25]   écoulé    3.9 min
+  B_COURT2_0.03125_0.0003    fait en    0.7 min   [24/25]   écoulé    3.9 min
+  B_COURT2_0.03125_0.01      fait en    0.6 min   [25/25]   écoulé    4.5 min
+TRANCHE G7 TERMINÉE — 25 courses dans resultats/tranche_G7.json
