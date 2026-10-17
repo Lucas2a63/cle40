@@ -1,2 +1,6 @@
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche D6 : 18 courses, 0 déjà faites, 18 à faire, sur 4 processus
+  mlp_REGLAGES_s30           fait en   26.0 min   [1/18]   écoulé   26.0 min
+  mlp_POIDS_s31              fait en   26.1 min   [2/18]   écoulé   26.1 min
+  mlp_POIDS_s30              fait en   26.1 min   [3/18]   écoulé   26.1 min
+  mlp_SANSCUR_s30            fait en   26.4 min   [4/18]   écoulé   26.4 min
