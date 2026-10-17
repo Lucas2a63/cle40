@@ -1,3 +1,7 @@
 balayage41_choix.json : sha256 42953c69d71452148f527d6b7e2e05c724a4394ff08531a78857116372fc9f59
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche M2 : 16 courses, 0 déjà faites, 16 à faire, sur 4 processus
+  mlp_M32_s17                fait en   24.6 min   [1/16]   écoulé   24.6 min
+  mlp_M32_s18                fait en   24.7 min   [2/16]   écoulé   24.7 min
+  mlp_M32_s16                fait en   24.8 min   [3/16]   écoulé   24.8 min
+  mlp_M32_s19                fait en   24.8 min   [4/16]   écoulé   24.8 min
