@@ -20,3 +20,8 @@ tranche P7 : 24 courses, 0 déjà faites, 24 à faire, sur 4 processus
   mlp_INDEP_s8             fait en   22.6 min   [18/24]   écoulé  114.1 min
   mlp_SYS_s9               fait en   22.7 min   [19/24]   écoulé  114.3 min
   mlp_INDEP_s9             fait en   22.8 min   [20/24]   écoulé  114.6 min
+  mlp_SYS_s10              fait en   22.5 min   [21/24]   écoulé  136.4 min
+  mlp_INDEP_s10            fait en   22.5 min   [22/24]   écoulé  136.7 min
+  mlp_SYS_s11              fait en   22.5 min   [23/24]   écoulé  136.7 min
+  mlp_INDEP_s11            fait en   22.6 min   [24/24]   écoulé  137.2 min
+TRANCHE P7 TERMINÉE — 24 courses dans resultats/tranche_P7.json
