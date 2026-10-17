@@ -1,2 +1,4 @@
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche B2 : 7 courses, 0 déjà faites, 7 à faire, sur 4 processus
+  B_cnn_GRAND_2            fait en   51.3 min   [1/7]   écoulé   51.3 min
+  B_cnn_GRAND_1            fait en   51.4 min   [2/7]   écoulé   51.4 min
