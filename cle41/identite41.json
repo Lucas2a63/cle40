@@ -1,0 +1,26 @@
+{
+ "mlp_COURT_s5": {
+  "gens": 120,
+  "valeurs": 1050,
+  "ecarts": 0,
+  "exemples": []
+ },
+ "mlp_SYS_s0": {
+  "gens": 3,
+  "valeurs": 96,
+  "ecarts": 0,
+  "exemples": []
+ },
+ "mlp_INDEP_s1": {
+  "gens": 3,
+  "valeurs": 96,
+  "ecarts": 0,
+  "exemples": []
+ },
+ "cnn_SYS_s2": {
+  "gens": 3,
+  "valeurs": 96,
+  "ecarts": 0,
+  "exemples": []
+ }
+}

@@ -1,0 +1,4695 @@
+{
+ "tranches": {
+  "G1": [
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.015625,
+    "wd": "WD0"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.015625,
+    "wd": 0.0003
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.015625,
+    "wd": 0.001
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.015625,
+    "wd": 0.003
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.015625,
+    "wd": 0.01
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.03125,
+    "wd": "WD0"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.03125,
+    "wd": 0.0003
+   }
+  ],
+  "G2": [
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.03125,
+    "wd": 0.001
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.03125,
+    "wd": 0.003
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.03125,
+    "wd": 0.01
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.0625,
+    "wd": "WD0"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.0625,
+    "wd": 0.0003
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.0625,
+    "wd": 0.001
+   }
+  ],
+  "G3": [
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.0625,
+    "wd": 0.003
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.0625,
+    "wd": 0.01
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.125,
+    "wd": "WD0"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.125,
+    "wd": 0.0003
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.125,
+    "wd": 0.001
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.125,
+    "wd": 0.003
+   }
+  ],
+  "G4": [
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.125,
+    "wd": 0.01
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.25,
+    "wd": "WD0"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.25,
+    "wd": 0.0003
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.25,
+    "wd": 0.001
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.25,
+    "wd": 0.003
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.25,
+    "wd": 0.01
+   }
+  ],
+  "G5": [
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.000244140625,
+    "wd": "WD0"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.000244140625,
+    "wd": 0.0003
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.000244140625,
+    "wd": 0.001
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.000244140625,
+    "wd": 0.003
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.000244140625,
+    "wd": 0.01
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.00048828125,
+    "wd": "WD0"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.00048828125,
+    "wd": 0.0003
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.00048828125,
+    "wd": 0.001
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.00048828125,
+    "wd": 0.003
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.00048828125,
+    "wd": 0.01
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.0009765625,
+    "wd": "WD0"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.0009765625,
+    "wd": 0.0003
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.0009765625,
+    "wd": 0.001
+   }
+  ],
+  "G6": [
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.0009765625,
+    "wd": 0.003
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.0009765625,
+    "wd": 0.01
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.001953125,
+    "wd": "WD0"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.001953125,
+    "wd": 0.0003
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.001953125,
+    "wd": 0.001
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.001953125,
+    "wd": 0.003
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.001953125,
+    "wd": 0.01
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.00390625,
+    "wd": "WD0"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.00390625,
+    "wd": 0.0003
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.00390625,
+    "wd": 0.001
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.00390625,
+    "wd": 0.003
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.00390625,
+    "wd": 0.01
+   }
+  ],
+  "G7": [
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.03125,
+    "wd": "WD0"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.03125,
+    "wd": 0.0003
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.03125,
+    "wd": 0.001
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.03125,
+    "wd": 0.003
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.03125,
+    "wd": 0.01
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.0625,
+    "wd": "WD0"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.0625,
+    "wd": 0.0003
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.0625,
+    "wd": 0.001
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.0625,
+    "wd": 0.003
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.0625,
+    "wd": 0.01
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.125,
+    "wd": "WD0"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.125,
+    "wd": 0.0003
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.125,
+    "wd": 0.001
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.125,
+    "wd": 0.003
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.125,
+    "wd": 0.01
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.25,
+    "wd": "WD0"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.25,
+    "wd": 0.0003
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.25,
+    "wd": 0.001
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.25,
+    "wd": 0.003
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.25,
+    "wd": 0.01
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.5,
+    "wd": "WD0"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.5,
+    "wd": 0.0003
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.5,
+    "wd": 0.001
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.5,
+    "wd": 0.003
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 99,
+    "res": 32,
+    "balayage": true,
+    "mult": 0.5,
+    "wd": 0.01
+   }
+  ],
+  "A1": [
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 24,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 24,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 24,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 24,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 24,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 25,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 25,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 25,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 25,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 25,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 26,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 26,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 26,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 26,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 26,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 27,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 27,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 27,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 27,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 27,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   }
+  ],
+  "A2": [
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 28,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 28,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 28,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 28,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 28,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 29,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 29,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 29,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 29,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 29,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 30,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 30,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 30,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 30,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 30,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 31,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 31,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 31,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 31,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 31,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   }
+  ],
+  "A3": [
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 32,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 32,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 32,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 32,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 32,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 33,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 33,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 33,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 33,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 33,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 34,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 34,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 34,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 34,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 34,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 35,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 35,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 35,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 35,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 35,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   }
+  ],
+  "A4": [
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 36,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 36,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 36,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 36,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 36,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 37,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 37,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 37,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 37,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 37,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 38,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 38,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 38,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 38,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 38,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 39,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 39,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 39,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 39,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 39,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   }
+  ],
+  "A5": [
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 40,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 40,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 40,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 40,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 40,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 41,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 41,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 41,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 41,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 41,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 42,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 42,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 42,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 42,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 42,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 43,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 43,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 43,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 43,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 43,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   }
+  ],
+  "A6": [
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 44,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 44,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 44,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 44,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 44,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 45,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 45,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 45,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 45,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 45,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 46,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 46,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 46,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 46,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 46,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 47,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 47,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 47,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 47,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 47,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage40_choix.json"
+   }
+  ],
+  "D1": [
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 0,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 0,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 0,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 1,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 1,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 1,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 2,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 2,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 2,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 3,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 3,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 3,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 4,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 4,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 4,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 5,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 5,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 5,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   }
+  ],
+  "D2": [
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 6,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 6,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 6,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 7,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 7,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 7,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 8,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 8,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 8,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 9,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 9,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 9,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 10,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 10,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 10,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 11,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 11,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 11,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   }
+  ],
+  "D3": [
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 12,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 12,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 12,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 13,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 13,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 13,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 14,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 14,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 14,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 15,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 15,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 15,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 16,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 16,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 16,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 17,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 17,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 17,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   }
+  ],
+  "D4": [
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 18,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 18,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 18,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 19,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 19,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 19,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 20,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 20,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 20,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 21,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 21,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 21,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 22,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 22,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 22,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 23,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 23,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 23,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   }
+  ],
+  "D5": [
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 24,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 24,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 24,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 25,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 25,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 25,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 26,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 26,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 26,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 27,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 27,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 27,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 28,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 28,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 28,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 29,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 29,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 29,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   }
+  ],
+  "D6": [
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 30,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 30,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 30,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 31,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 31,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 31,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 32,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 32,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 32,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 33,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 33,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 33,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 34,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 34,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 34,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 35,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 35,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 35,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   }
+  ],
+  "D7": [
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 36,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 36,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 36,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 37,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 37,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 37,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 38,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 38,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 38,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 39,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 39,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 39,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 40,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 40,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 40,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 41,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 41,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 41,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   }
+  ],
+  "D8": [
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 42,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 42,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 42,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 43,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 43,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 43,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 44,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 44,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 44,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 45,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 45,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 45,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 46,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 46,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 46,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "POIDS",
+    "arch": "mlp",
+    "seed": 47,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "REGLAGES",
+    "arch": "mlp",
+    "seed": 47,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   },
+   {
+    "bras": "SANSCUR",
+    "arch": "mlp",
+    "seed": 47,
+    "res": 32,
+    "balayage": false,
+    "taux": null
+   }
+  ],
+  "W1": [
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 0,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 0,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 0,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 1,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 1,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 1,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 2,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 2,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 2,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 3,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 3,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 3,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 4,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 4,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 4,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 5,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 5,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 5,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 6,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 6,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 6,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 7,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 7,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 7,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   }
+  ],
+  "W2": [
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 8,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 8,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 8,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 9,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 9,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 9,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 10,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 10,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 10,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 11,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 11,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 11,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 12,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 12,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 12,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 13,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 13,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 13,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 14,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 14,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 14,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 15,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 15,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 15,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   }
+  ],
+  "W3": [
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 16,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 16,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 16,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 17,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 17,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 17,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 18,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 18,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 18,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 19,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 19,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 19,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 20,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 20,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 20,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 21,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 21,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 21,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 22,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 22,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 22,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 23,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 23,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 23,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   }
+  ],
+  "W4": [
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 24,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 24,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 24,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 25,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 25,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 25,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 26,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 26,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 26,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 27,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 27,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 27,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 28,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 28,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 28,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 29,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 29,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 29,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 30,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 30,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 30,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 31,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 31,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 31,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   }
+  ],
+  "W5": [
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 32,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 32,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 32,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 33,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 33,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 33,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 34,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 34,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 34,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 35,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 35,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 35,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 36,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 36,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 36,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 37,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 37,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 37,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 38,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 38,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 38,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 39,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 39,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 39,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   }
+  ],
+  "W6": [
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 40,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 40,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 40,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 41,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 41,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 41,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 42,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 42,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 42,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 43,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 43,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 43,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 44,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 44,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 44,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 45,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 45,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 45,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 46,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 46,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 46,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "GRAND2",
+    "arch": "mlp",
+    "seed": 47,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "SEUL2",
+    "arch": "mlp",
+    "seed": 47,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "COURT2",
+    "arch": "mlp",
+    "seed": 47,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   }
+  ],
+  "M1": [
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 0,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 1,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 2,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 3,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 4,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 5,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 6,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 7,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 8,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 9,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 10,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 11,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 12,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 13,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 14,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 15,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   }
+  ],
+  "M2": [
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 16,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 17,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 18,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 19,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 20,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 21,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 22,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 23,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 24,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 25,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 26,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 27,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 28,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 29,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 30,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 31,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   }
+  ],
+  "M3": [
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 32,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 33,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 34,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 35,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 36,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 37,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 38,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 39,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 40,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 41,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 42,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 43,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 44,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 45,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 46,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 47,
+    "res": 32,
+    "balayage": false,
+    "taux": "balayage41_choix.json"
+   }
+  ]
+ },
+ "grilles": {
+  "SEUL2": [
+   [
+    0.000244140625,
+    "WD0"
+   ],
+   [
+    0.000244140625,
+    0.0003
+   ],
+   [
+    0.000244140625,
+    0.001
+   ],
+   [
+    0.000244140625,
+    0.003
+   ],
+   [
+    0.000244140625,
+    0.01
+   ],
+   [
+    0.00048828125,
+    "WD0"
+   ],
+   [
+    0.00048828125,
+    0.0003
+   ],
+   [
+    0.00048828125,
+    0.001
+   ],
+   [
+    0.00048828125,
+    0.003
+   ],
+   [
+    0.00048828125,
+    0.01
+   ],
+   [
+    0.0009765625,
+    "WD0"
+   ],
+   [
+    0.0009765625,
+    0.0003
+   ],
+   [
+    0.0009765625,
+    0.001
+   ],
+   [
+    0.0009765625,
+    0.003
+   ],
+   [
+    0.0009765625,
+    0.01
+   ],
+   [
+    0.001953125,
+    "WD0"
+   ],
+   [
+    0.001953125,
+    0.0003
+   ],
+   [
+    0.001953125,
+    0.001
+   ],
+   [
+    0.001953125,
+    0.003
+   ],
+   [
+    0.001953125,
+    0.01
+   ],
+   [
+    0.00390625,
+    "WD0"
+   ],
+   [
+    0.00390625,
+    0.0003
+   ],
+   [
+    0.00390625,
+    0.001
+   ],
+   [
+    0.00390625,
+    0.003
+   ],
+   [
+    0.00390625,
+    0.01
+   ]
+  ],
+  "GRAND2": [
+   [
+    0.015625,
+    "WD0"
+   ],
+   [
+    0.015625,
+    0.0003
+   ],
+   [
+    0.015625,
+    0.001
+   ],
+   [
+    0.015625,
+    0.003
+   ],
+   [
+    0.015625,
+    0.01
+   ],
+   [
+    0.03125,
+    "WD0"
+   ],
+   [
+    0.03125,
+    0.0003
+   ],
+   [
+    0.03125,
+    0.001
+   ],
+   [
+    0.03125,
+    0.003
+   ],
+   [
+    0.03125,
+    0.01
+   ],
+   [
+    0.0625,
+    "WD0"
+   ],
+   [
+    0.0625,
+    0.0003
+   ],
+   [
+    0.0625,
+    0.001
+   ],
+   [
+    0.0625,
+    0.003
+   ],
+   [
+    0.0625,
+    0.01
+   ],
+   [
+    0.125,
+    "WD0"
+   ],
+   [
+    0.125,
+    0.0003
+   ],
+   [
+    0.125,
+    0.001
+   ],
+   [
+    0.125,
+    0.003
+   ],
+   [
+    0.125,
+    0.01
+   ],
+   [
+    0.25,
+    "WD0"
+   ],
+   [
+    0.25,
+    0.0003
+   ],
+   [
+    0.25,
+    0.001
+   ],
+   [
+    0.25,
+    0.003
+   ],
+   [
+    0.25,
+    0.01
+   ]
+  ],
+  "COURT2": [
+   [
+    0.03125,
+    "WD0"
+   ],
+   [
+    0.03125,
+    0.0003
+   ],
+   [
+    0.03125,
+    0.001
+   ],
+   [
+    0.03125,
+    0.003
+   ],
+   [
+    0.03125,
+    0.01
+   ],
+   [
+    0.0625,
+    "WD0"
+   ],
+   [
+    0.0625,
+    0.0003
+   ],
+   [
+    0.0625,
+    0.001
+   ],
+   [
+    0.0625,
+    0.003
+   ],
+   [
+    0.0625,
+    0.01
+   ],
+   [
+    0.125,
+    "WD0"
+   ],
+   [
+    0.125,
+    0.0003
+   ],
+   [
+    0.125,
+    0.001
+   ],
+   [
+    0.125,
+    0.003
+   ],
+   [
+    0.125,
+    0.01
+   ],
+   [
+    0.25,
+    "WD0"
+   ],
+   [
+    0.25,
+    0.0003
+   ],
+   [
+    0.25,
+    0.001
+   ],
+   [
+    0.25,
+    0.003
+   ],
+   [
+    0.25,
+    0.01
+   ],
+   [
+    0.5,
+    "WD0"
+   ],
+   [
+    0.5,
+    0.0003
+   ],
+   [
+    0.5,
+    0.001
+   ],
+   [
+    0.5,
+    0.003
+   ],
+   [
+    0.5,
+    0.01
+   ]
+  ]
+ }
+}
