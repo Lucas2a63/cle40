@@ -1,2 +1,6 @@
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche G5 : 13 courses, 0 déjà faites, 13 à faire, sur 4 processus
+  B_SEUL2_0.000976562_0.001  fait en   13.9 min   [1/13]   écoulé   13.9 min
+  B_SEUL2_0.000976562_WD0    fait en   13.9 min   [2/13]   écoulé   13.9 min
+  B_SEUL2_0.000976562_0.0003 fait en   13.9 min   [3/13]   écoulé   13.9 min
+  B_SEUL2_0.000488281_WD0    fait en   13.9 min   [4/13]   écoulé   13.9 min
