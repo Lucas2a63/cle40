@@ -1,0 +1,16 @@
+{
+ "mlp_M32_s0": {
+  "gens": 120,
+  "valeurs": 1896,
+  "ecarts": 0,
+  "exemples": [],
+  "manquantes": 0,
+  "nouvelles": 166,
+  "cles_nouvelles": [
+   ".fin_livre.ancre.biais",
+   ".fin_livre.ancre.chats",
+   ".fin_livre.ancre.n",
+   ".fin_livre.ancre.note"
+  ]
+ }
+}
