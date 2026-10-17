@@ -18,3 +18,7 @@ tranche B3 : 21 courses, 0 déjà faites, 21 à faire, sur 4 processus
   B_mlp_COURT_0.0625       fait en    0.6 min   [16/21]   écoulé   39.5 min
   B_mlp_COURT_0.03125      fait en    0.5 min   [17/21]   écoulé   40.0 min
   B_mlp_COURT_0.015625     fait en    0.5 min   [18/21]   écoulé   40.6 min
+  B_mlp_GRAND_0.03125      fait en   20.1 min   [19/21]   écoulé   47.0 min
+  B_mlp_GRAND_0.015625     fait en   20.1 min   [20/21]   écoulé   47.0 min
+  B_mlp_GRAND_0.0078125    fait en   19.6 min   [21/21]   écoulé   54.0 min
+TRANCHE B3 TERMINÉE — 21 courses dans resultats/tranche_B3.json
