@@ -7,3 +7,6 @@ tranche R1 : 8 courses, 0 déjà faites, 8 à faire, sur 4 processus
   cnn_SEUL10_s0            fait en   90.2 min   [4/8]   écoulé   90.2 min
   cnn_COURT_s0             fait en    3.6 min   [5/8]   écoulé   93.4 min
   cnn_COURT_s1             fait en    3.5 min   [6/8]   écoulé   93.7 min
+  cnn_GRAND_s1             fait en   49.8 min   [7/8]   écoulé  139.5 min
+  cnn_GRAND_s0             fait en   49.9 min   [8/8]   écoulé  139.5 min
+TRANCHE R1 TERMINÉE — 8 courses dans resultats/tranche_R1.json
