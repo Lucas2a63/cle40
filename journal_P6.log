@@ -2,3 +2,6 @@ machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche P6 : 4 courses, 0 déjà faites, 4 à faire, sur 4 processus
   cnn_INDEP_s10            fait en  225.6 min   [1/4]   écoulé  225.7 min
   cnn_SYS_s10              fait en  225.7 min   [2/4]   écoulé  225.7 min
+  cnn_SYS_s11              fait en  227.4 min   [3/4]   écoulé  227.4 min
+  cnn_INDEP_s11            fait en  228.7 min   [4/4]   écoulé  228.7 min
+TRANCHE P6 TERMINÉE — 4 courses dans resultats/tranche_P6.json
