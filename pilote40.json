@@ -1,0 +1,82 @@
+{
+ "cas": [
+  {
+   "bras": "SYS",
+   "arch": "cnn",
+   "gens": 2,
+   "s_par_gen": 129.82801055908203,
+   "juges": 2,
+   "rss_mo": 3435.77734375
+  },
+  {
+   "bras": "INDEP",
+   "arch": "cnn",
+   "gens": 1,
+   "s_par_gen": 133.09485697746277,
+   "juges": 1,
+   "rss_mo": 3429.765625
+  },
+  {
+   "bras": "SEUL",
+   "arch": "cnn",
+   "gens": 1,
+   "s_par_gen": 57.01037287712097,
+   "juges": 1,
+   "rss_mo": 812.0625
+  },
+  {
+   "bras": "GRAND",
+   "arch": "cnn",
+   "gens": 1,
+   "s_par_gen": 33.268478870391846,
+   "juges": 1,
+   "rss_mo": 802.73046875
+  },
+  {
+   "bras": "COURT",
+   "arch": "cnn",
+   "gens": 3,
+   "s_par_gen": 2.6366851329803467,
+   "juges": 3,
+   "rss_mo": 786.5859375
+  },
+  {
+   "bras": "SYS",
+   "arch": "mlp",
+   "gens": 3,
+   "s_par_gen": 12.075891335805258,
+   "juges": 3,
+   "rss_mo": 848.37109375
+  },
+  {
+   "bras": "SEUL",
+   "arch": "mlp",
+   "gens": 1,
+   "s_par_gen": 6.437013149261475,
+   "juges": 1,
+   "rss_mo": 779.79296875
+  },
+  {
+   "bras": "GRAND",
+   "arch": "mlp",
+   "gens": 1,
+   "s_par_gen": 11.214752912521362,
+   "juges": 1,
+   "rss_mo": 830.84375
+  },
+  {
+   "bras": "COURT",
+   "arch": "mlp",
+   "gens": 3,
+   "s_par_gen": 0.4504588445027669,
+   "juges": 3,
+   "rss_mo": 779.87109375
+  }
+ ],
+ "finales_cnn": {
+  "fin_pop": 226.63835334777832,
+  "fin_livre": 3.7556843757629395,
+  "fin_ens": 166.11776423454285,
+  "rss_mo": 1690.43359375
+ }
+}

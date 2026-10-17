@@ -1,0 +1,30 @@
+{
+ "mlp_COURT_s0": {
+  "identique": true,
+  "valeurs": 1049
+ },
+ "cnn_COURT_s0": {
+  "identique": true,
+  "valeurs": 1049
+ },
+ "mlp_SYS_s0": {
+  "identique": true,
+  "valeurs": 96
+ },
+ "cnn_SYS_s0": {
+  "identique": true,
+  "valeurs": 96
+ },
+ "mlp_SEUL_s0": {
+  "identique": true,
+  "valeurs": 1049
+ },
+ "cnn_INDEP_s1": {
+  "identique": true,
+  "valeurs": 96
+ },
+ "mlp_GRAND_s3": {
+  "identique": true,
+  "valeurs": 1050
+ }
+}
