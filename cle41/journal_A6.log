@@ -1,3 +1,7 @@
 balayage40_choix.json : sha256 8e7c4ea62a0dc7b96778617d1e2c0092d1abd3daaad45c15987ec0abe2c096b6
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche A6 : 20 courses, 0 déjà faites, 20 à faire, sur 4 processus
+  mlp_INDEP_s44              fait en   26.0 min   [1/20]   écoulé   26.0 min
+  mlp_SYS_s45                fait en   26.1 min   [2/20]   écoulé   26.1 min
+  mlp_SYS_s44                fait en   26.3 min   [3/20]   écoulé   26.3 min
+  mlp_INDEP_s45              fait en   26.3 min   [4/20]   écoulé   26.3 min
