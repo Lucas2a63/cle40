@@ -9,3 +9,8 @@ tranche E4 : 12 courses, 0 déjà faites, 12 à faire, sur 4 processus
   mlp_INDEP_s110             fait en   25.0 min   [6/12]   écoulé   52.3 min
   mlp_INDEP0_s110            fait en   25.2 min   [7/12]   écoulé   52.5 min
   mlp_M32_s110               fait en   25.2 min   [8/12]   écoulé   52.6 min
+  mlp_SYS_s111               fait en   25.4 min   [9/12]   écoulé   77.5 min
+  mlp_INDEP_s111             fait en   25.5 min   [10/12]   écoulé   77.8 min
+  mlp_INDEP0_s111            fait en   25.6 min   [11/12]   écoulé   78.2 min
+  mlp_M32_s111               fait en   25.7 min   [12/12]   écoulé   78.2 min
+TRANCHE E4 TERMINÉE — 12 courses dans resultats/tranche_E4.json
