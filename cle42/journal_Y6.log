@@ -1,2 +1,6 @@
 machine : 4 cœurs, 15.3 Go disponibles, numpy 2.5.3
 tranche Y6 : 15 courses, 0 déjà faites, 15 à faire, sur 4 processus
+  mlp_SYS_s63                fait en   24.4 min   [1/15]   écoulé   24.4 min
+  mlp_SYSL_s63               fait en   24.5 min   [2/15]   écoulé   24.5 min
+  mlp_INDEP_s63              fait en   24.6 min   [3/15]   écoulé   24.6 min
+  mlp_SYSR_s63               fait en   24.9 min   [4/15]   écoulé   24.9 min
