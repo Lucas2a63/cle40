@@ -1,3 +1,7 @@
 balayage40_choix.json : sha256 8e7c4ea62a0dc7b96778617d1e2c0092d1abd3daaad45c15987ec0abe2c096b6
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche L4 : 8 courses, 0 déjà faites, 8 à faire, sur 4 processus
+  mlp_GRAND_s126             fait en   24.3 min   [1/8]   écoulé   24.3 min
+  mlp_GRAND_s127             fait en   24.4 min   [2/8]   écoulé   24.4 min
+  mlp_GRAND_s125             fait en   24.4 min   [3/8]   écoulé   24.4 min
+  mlp_GRAND_s124             fait en   24.6 min   [4/8]   écoulé   24.6 min
