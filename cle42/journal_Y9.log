@@ -12,3 +12,7 @@ tranche Y9 : 15 courses, 0 déjà faites, 15 à faire, sur 4 processus
   mlp_SYS_s74                fait en   24.0 min   [10/15]   écoulé   72.9 min
   mlp_SYSL_s74               fait en   24.1 min   [11/15]   écoulé   73.0 min
   mlp_SANSCUR_s73            fait en   24.3 min   [12/15]   écoulé   73.1 min
+  mlp_SYSR_s74               fait en   24.1 min   [13/15]   écoulé   96.6 min
+  mlp_INDEP_s74              fait en   23.9 min   [14/15]   écoulé   96.8 min
+  mlp_SANSCUR_s74            fait en   24.1 min   [15/15]   écoulé   97.1 min
+TRANCHE Y9 TERMINÉE — 15 courses dans resultats/tranche_Y9.json
