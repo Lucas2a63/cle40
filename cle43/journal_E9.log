@@ -9,3 +9,8 @@ tranche E9 : 12 courses, 0 déjà faites, 12 à faire, sur 4 processus
   mlp_SYS_s125               fait en   24.8 min   [6/12]   écoulé   50.0 min
   mlp_INDEP0_s125            fait en   24.9 min   [7/12]   écoulé   50.2 min
   mlp_M32_s125               fait en   25.0 min   [8/12]   écoulé   50.5 min
+  mlp_SYS_s126               fait en   25.0 min   [9/12]   écoulé   74.8 min
+  mlp_INDEP_s126             fait en   25.2 min   [10/12]   écoulé   75.2 min
+  mlp_INDEP0_s126            fait en   25.4 min   [11/12]   écoulé   75.6 min
+  mlp_M32_s126               fait en   25.4 min   [12/12]   écoulé   75.9 min
+TRANCHE E9 TERMINÉE — 12 courses dans resultats/tranche_E9.json
