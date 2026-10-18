@@ -2,3 +2,7 @@ balayage40_choix.json : sha256 8e7c4ea62a0dc7b96778617d1e2c0092d1abd3daaad45c159
 balayage41_choix.json : sha256 42953c69d71452148f527d6b7e2e05c724a4394ff08531a78857116372fc9f59
 machine : 4 cœurs, 15.3 Go disponibles, numpy 2.5.3
 tranche C4 : 36 courses, 0 déjà faites, 36 à faire, sur 4 processus
+  mlp_SEUL2_s86              fait en   13.3 min   [1/36]   écoulé   13.3 min
+  mlp_SEUL2_s85              fait en   13.3 min   [2/36]   écoulé   13.4 min
+  mlp_SEUL2_s87              fait en   13.3 min   [3/36]   écoulé   13.4 min
+  mlp_SEUL2_s84              fait en   13.4 min   [4/36]   écoulé   13.4 min
