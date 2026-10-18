@@ -12,3 +12,7 @@ tranche Y16 : 15 courses, 0 déjà faites, 15 à faire, sur 4 processus
   mlp_SYS_s95                fait en   25.1 min   [10/15]   écoulé   76.4 min
   mlp_SANSCUR_s94            fait en   25.3 min   [11/15]   écoulé   76.5 min
   mlp_SYSL_s95               fait en   25.3 min   [12/15]   écoulé   76.8 min
+  mlp_SYSR_s95               fait en   24.4 min   [13/15]   écoulé  100.7 min
+  mlp_INDEP_s95              fait en   24.3 min   [14/15]   écoulé  100.7 min
+  mlp_SANSCUR_s95            fait en   24.5 min   [15/15]   écoulé  101.0 min
+TRANCHE Y16 TERMINÉE — 15 courses dans resultats/tranche_Y16.json
