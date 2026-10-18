@@ -1,2 +1,6 @@
 machine : 4 cœurs, 15.3 Go disponibles, numpy 2.5.3
 tranche Y12 : 15 courses, 0 déjà faites, 15 à faire, sur 4 processus
+  mlp_SYS_s81                fait en   24.8 min   [1/15]   écoulé   24.8 min
+  mlp_SYSL_s81               fait en   24.8 min   [2/15]   écoulé   24.8 min
+  mlp_INDEP_s81              fait en   25.0 min   [3/15]   écoulé   25.0 min
+  mlp_SYSR_s81               fait en   25.1 min   [4/15]   écoulé   25.1 min
