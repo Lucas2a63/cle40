@@ -1,0 +1,22 @@
+{
+ "mlp_COURT2_s50": {
+  "gens": 120,
+  "valeurs": 1217,
+  "ecarts": 0,
+  "exemples": [],
+  "manquantes": 0,
+  "nouvelles": 0,
+  "cles_nouvelles": []
+ },
+ "mlp_SYS_s78": {
+  "gens": 3,
+  "valeurs": 96,
+  "ecarts": 0,
+  "exemples": [],
+  "manquantes": 0,
+  "nouvelles": 3,
+  "cles_nouvelles": [
+   ".juge[].note_ens"
+  ]
+ }
+}

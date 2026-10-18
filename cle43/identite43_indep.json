@@ -1,0 +1,20 @@
+{
+ "mlp_INDEP_s48": {
+  "gens": 120,
+  "valeurs": 2900,
+  "ecarts": 0,
+  "exemples": [],
+  "manquantes": 0,
+  "nouvelles": 437,
+  "cles_nouvelles": [
+   ".fin_ens.ancre.biais",
+   ".fin_ens.ancre.chats",
+   ".fin_ens.ancre.n",
+   ".fin_ens.ancre.note",
+   ".fin_ens.front.Ao",
+   ".fin_ens.front.Rf",
+   ".fin_ens.front.biais",
+   ".juge[].note_ens"
+  ]
+ }
+}
