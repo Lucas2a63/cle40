@@ -9,3 +9,8 @@ tranche E10 : 12 courses, 0 déjà faites, 12 à faire, sur 4 processus
   mlp_SYS_s128               fait en   24.9 min   [6/12]   écoulé   50.6 min
   mlp_INDEP0_s128            fait en   25.1 min   [7/12]   écoulé   51.1 min
   mlp_M32_s128               fait en   25.1 min   [8/12]   écoulé   51.1 min
+  mlp_SYS_s129               fait en   25.1 min   [9/12]   écoulé   75.5 min
+  mlp_INDEP_s129             fait en   25.3 min   [10/12]   écoulé   75.9 min
+  mlp_INDEP0_s129            fait en   25.4 min   [11/12]   écoulé   76.5 min
+  mlp_M32_s129               fait en   25.4 min   [12/12]   écoulé   76.5 min
+TRANCHE E10 TERMINÉE — 12 courses dans resultats/tranche_E10.json
