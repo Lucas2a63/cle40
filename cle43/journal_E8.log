@@ -3,3 +3,5 @@ machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche E8 : 12 courses, 0 déjà faites, 12 à faire, sur 4 processus
   mlp_SYS_s121               fait en   24.0 min   [1/12]   écoulé   24.0 min
   mlp_INDEP_s121             fait en   24.0 min   [2/12]   écoulé   24.0 min
+  mlp_M32_s121               fait en   24.2 min   [3/12]   écoulé   24.2 min
+  mlp_INDEP0_s121            fait en   24.2 min   [4/12]   écoulé   24.3 min
