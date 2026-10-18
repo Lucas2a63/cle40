@@ -12,3 +12,7 @@ tranche Y13 : 15 courses, 0 déjà faites, 15 à faire, sur 4 processus
   mlp_SYS_s86                fait en   25.6 min   [10/15]   écoulé   77.5 min
   mlp_SANSCUR_s85            fait en   25.8 min   [11/15]   écoulé   77.6 min
   mlp_SYSL_s86               fait en   25.5 min   [12/15]   écoulé   77.7 min
+  mlp_SYSR_s86               fait en   25.4 min   [13/15]   écoulé  102.5 min
+  mlp_INDEP_s86              fait en   25.3 min   [14/15]   écoulé  102.8 min
+  mlp_SANSCUR_s86            fait en   25.4 min   [15/15]   écoulé  103.0 min
+TRANCHE Y13 TERMINÉE — 15 courses dans resultats/tranche_Y13.json
