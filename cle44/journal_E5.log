@@ -9,3 +9,8 @@ tranche E5 : 12 courses, 0 déjà faites, 12 à faire, sur 4 processus
   mlp_SYS_s110               fait en   50.9 min   [6/12]   écoulé  101.9 min
   mlp_M32_s110               fait en   51.3 min   [7/12]   écoulé  102.3 min
   mlp_ENS_s111               fait en   51.7 min   [8/12]   écoulé  102.9 min
+  mlp_INDEP_s111             fait en   49.3 min   [9/12]   écoulé  151.1 min
+  mlp_ENSR_s111              fait en   49.4 min   [10/12]   écoulé  151.1 min
+  mlp_SYS_s111               fait en   49.2 min   [11/12]   écoulé  151.4 min
+  mlp_M32_s111               fait en   49.8 min   [12/12]   écoulé  152.7 min
+TRANCHE E5 TERMINÉE — 12 courses dans resultats/tranche_E5.json
