@@ -1,0 +1,18 @@
+{
+ "course": "mlp_INDEPC_s100 contre mlp_INDEP_s100 (clé 43)",
+ "valeurs": 3337,
+ "ecarts": 0,
+ "exemples": [],
+ "manquantes": 0,
+ "nouvelles": 3582,
+ "cles_nouvelles": [
+  "fin_choix",
+  "fin_ens",
+  "juge[]"
+ ],
+ "TOUS_egal_fin_ens": {
+  "front": true,
+  "ancre": true,
+  "diversite": true
+ }
+}

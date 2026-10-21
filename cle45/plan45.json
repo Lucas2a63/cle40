@@ -1,0 +1,364 @@
+{
+ "tranches": {
+  "F1": [
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 100,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 101,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 102,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 103,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "F2": [
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 104,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 105,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 106,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 107,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "F3": [
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 108,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 109,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 110,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 111,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "F4": [
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 112,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 113,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 114,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 115,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "F5": [
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 116,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 117,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 118,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 119,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "F6": [
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 120,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 121,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 122,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 123,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "F7": [
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 124,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 125,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 126,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 127,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "F8": [
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 128,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 129,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 130,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 131,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "F9": [
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 132,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 133,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 134,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 135,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "F10": [
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 136,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 137,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 138,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 139,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "F11": [
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 140,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 141,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 142,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 143,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "F12": [
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 144,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 145,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 146,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "mlp",
+    "seed": 147,
+    "res": 32,
+    "taux": null
+   }
+  ]
+ }
+}
