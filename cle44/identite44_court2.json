@@ -1,0 +1,26 @@
+{
+ "mlp_COURT2_s100": {
+  "gens": 120,
+  "valeurs": 1217,
+  "ecarts": 0,
+  "exemples": [],
+  "manquantes": 0,
+  "nouvelles": 0,
+  "cles_nouvelles": []
+ },
+ "mlp_SYS_s103": {
+  "gens": 3,
+  "valeurs": 99,
+  "ecarts": 0,
+  "exemples": [],
+  "manquantes": 0,
+  "nouvelles": 15,
+  "cles_nouvelles": [
+   ".juge[].amb",
+   ".juge[].amb_chat",
+   ".juge[].brier_ens",
+   ".juge[].brier_moy",
+   ".juge[].desacc"
+  ]
+ }
+}

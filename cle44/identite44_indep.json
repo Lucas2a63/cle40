@@ -1,0 +1,22 @@
+{
+ "mlp_INDEP_s100": {
+  "gens": 120,
+  "valeurs": 3337,
+  "ecarts": 0,
+  "exemples": [],
+  "manquantes": 0,
+  "nouvelles": 130,
+  "cles_nouvelles": [
+   ".fin_ens.diversite.amb",
+   ".fin_ens.diversite.amb_chat",
+   ".fin_ens.diversite.brier_ens",
+   ".fin_ens.diversite.brier_moy",
+   ".fin_ens.diversite.desacc",
+   ".juge[].amb",
+   ".juge[].amb_chat",
+   ".juge[].brier_ens",
+   ".juge[].brier_moy",
+   ".juge[].desacc"
+  ]
+ }
+}

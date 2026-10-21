@@ -1,0 +1,1724 @@
+{
+ "tranches": {
+  "E1": [
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 100,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 100,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 100,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 100,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 100,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 101,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 101,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 101,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 101,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 101,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 102,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 102,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E2": [
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 102,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 102,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 102,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 103,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 103,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 103,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 103,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 103,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 104,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 104,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 104,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 104,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E3": [
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 104,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 105,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 105,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 105,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 105,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 105,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 106,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 106,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 106,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 106,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 106,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 107,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E4": [
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 107,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 107,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 107,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 107,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 108,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 108,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 108,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 108,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 108,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 109,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 109,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 109,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E5": [
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 109,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 109,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 110,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 110,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 110,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 110,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 110,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 111,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 111,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 111,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 111,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 111,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   }
+  ],
+  "E6": [
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 112,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 112,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 112,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 112,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 112,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 113,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 113,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 113,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 113,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 113,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 114,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 114,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E7": [
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 114,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 114,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 114,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 115,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 115,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 115,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 115,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 115,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 116,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 116,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 116,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 116,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E8": [
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 116,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 117,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 117,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 117,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 117,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 117,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 118,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 118,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 118,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 118,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 118,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 119,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E9": [
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 119,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 119,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 119,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 119,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 120,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 120,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 120,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 120,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 120,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 121,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 121,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 121,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E10": [
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 121,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 121,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 122,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 122,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 122,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 122,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 122,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 123,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 123,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 123,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 123,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 123,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   }
+  ],
+  "E11": [
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 124,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 124,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 124,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 124,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 124,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 125,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 125,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 125,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 125,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 125,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 126,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 126,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E12": [
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 126,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 126,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 126,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 127,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 127,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 127,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 127,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 127,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 128,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 128,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 128,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 128,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E13": [
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 128,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 129,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 129,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 129,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 129,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 129,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 130,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 130,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 130,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 130,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 130,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 131,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E14": [
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 131,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 131,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 131,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 131,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 132,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 132,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 132,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 132,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 132,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 133,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 133,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 133,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E15": [
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 133,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 133,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 134,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 134,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 134,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 134,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 134,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 135,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 135,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 135,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 135,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 135,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   }
+  ],
+  "E16": [
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 136,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 136,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 136,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 136,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 136,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 137,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 137,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 137,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 137,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 137,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 138,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 138,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E17": [
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 138,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 138,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 138,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 139,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 139,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 139,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 139,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 139,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 140,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 140,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 140,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 140,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E18": [
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 140,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 141,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 141,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 141,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 141,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 141,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 142,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 142,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 142,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 142,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 142,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 143,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E19": [
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 143,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 143,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 143,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 143,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 144,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 144,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 144,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 144,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 144,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 145,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 145,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 145,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "E20": [
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 145,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 145,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 146,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 146,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 146,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 146,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 146,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   },
+   {
+    "bras": "ENS",
+    "arch": "mlp",
+    "seed": 147,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "ENSR",
+    "arch": "mlp",
+    "seed": 147,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 147,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 147,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "M32",
+    "arch": "mlp",
+    "seed": 147,
+    "res": 32,
+    "taux": "balayage41_choix.json"
+   }
+  ]
+ }
+}
