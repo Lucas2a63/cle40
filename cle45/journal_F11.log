@@ -1,2 +1,7 @@
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche F11 : 4 courses, 0 déjà faites, 4 à faire, sur 4 processus
+  mlp_INDEPC_s143            fait en   32.1 min   [1/4]   écoulé   32.1 min
+  mlp_INDEPC_s140            fait en   32.1 min   [2/4]   écoulé   32.1 min
+  mlp_INDEPC_s142            fait en   32.2 min   [3/4]   écoulé   32.2 min
+  mlp_INDEPC_s141            fait en   32.2 min   [4/4]   écoulé   32.2 min
+TRANCHE F11 TERMINÉE — 4 courses dans resultats/tranche_F11.json
