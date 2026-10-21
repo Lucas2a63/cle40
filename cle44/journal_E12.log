@@ -9,3 +9,8 @@ tranche E12 : 12 courses, 0 déjà faites, 12 à faire, sur 4 processus
   mlp_INDEP_s127             fait en   29.9 min   [6/12]   écoulé   60.7 min
   mlp_ENSR_s127              fait en   30.3 min   [7/12]   écoulé   61.0 min
   mlp_M32_s127               fait en   30.0 min   [8/12]   écoulé   61.1 min
+  mlp_ENSR_s128              fait en   29.8 min   [9/12]   écoulé   90.5 min
+  mlp_ENS_s128               fait en   29.9 min   [10/12]   écoulé   90.5 min
+  mlp_INDEP_s128             fait en   29.8 min   [11/12]   écoulé   90.8 min
+  mlp_SYS_s128               fait en   29.8 min   [12/12]   écoulé   90.8 min
+TRANCHE E12 TERMINÉE — 12 courses dans resultats/tranche_E12.json
