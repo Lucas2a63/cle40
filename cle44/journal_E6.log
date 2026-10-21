@@ -2,3 +2,6 @@ balayage41_choix.json : sha256 42953c69d71452148f527d6b7e2e05c724a4394ff08531a78
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche E6 : 12 courses, 0 déjà faites, 12 à faire, sur 4 processus
   mlp_SYS_s112               fait en   33.1 min   [1/12]   écoulé   33.1 min
+  mlp_INDEP_s112             fait en   33.2 min   [2/12]   écoulé   33.2 min
+  mlp_ENSR_s112              fait en   33.5 min   [3/12]   écoulé   33.5 min
+  mlp_ENS_s112               fait en   33.5 min   [4/12]   écoulé   33.5 min
