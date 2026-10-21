@@ -3,3 +3,5 @@ machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche E16 : 12 courses, 0 déjà faites, 12 à faire, sur 4 processus
   mlp_SYS_s136               fait en   50.4 min   [1/12]   écoulé   50.4 min
   mlp_ENSR_s136              fait en   50.6 min   [2/12]   écoulé   50.6 min
+  mlp_ENS_s136               fait en   50.9 min   [3/12]   écoulé   50.9 min
+  mlp_INDEP_s136             fait en   50.9 min   [4/12]   écoulé   50.9 min
