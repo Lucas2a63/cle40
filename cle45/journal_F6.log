@@ -1,2 +1,7 @@
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche F6 : 4 courses, 0 déjà faites, 4 à faire, sur 4 processus
+  mlp_INDEPC_s122            fait en   30.0 min   [1/4]   écoulé   30.0 min
+  mlp_INDEPC_s121            fait en   30.1 min   [2/4]   écoulé   30.1 min
+  mlp_INDEPC_s120            fait en   30.1 min   [3/4]   écoulé   30.1 min
+  mlp_INDEPC_s123            fait en   30.1 min   [4/4]   écoulé   30.1 min
+TRANCHE F6 TERMINÉE — 4 courses dans resultats/tranche_F6.json
