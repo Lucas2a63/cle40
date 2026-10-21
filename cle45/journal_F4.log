@@ -1,2 +1,7 @@
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche F4 : 4 courses, 0 déjà faites, 4 à faire, sur 4 processus
+  mlp_INDEPC_s114            fait en   36.0 min   [1/4]   écoulé   36.0 min
+  mlp_INDEPC_s112            fait en   36.1 min   [2/4]   écoulé   36.1 min
+  mlp_INDEPC_s115            fait en   36.2 min   [3/4]   écoulé   36.2 min
+  mlp_INDEPC_s113            fait en   36.2 min   [4/4]   écoulé   36.2 min
+TRANCHE F4 TERMINÉE — 4 courses dans resultats/tranche_F4.json
