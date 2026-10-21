@@ -1,2 +1,7 @@
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche F8 : 4 courses, 0 déjà faites, 4 à faire, sur 4 processus
+  mlp_INDEPC_s131            fait en   47.4 min   [1/4]   écoulé   47.5 min
+  mlp_INDEPC_s129            fait en   47.6 min   [2/4]   écoulé   47.6 min
+  mlp_INDEPC_s130            fait en   47.8 min   [3/4]   écoulé   47.8 min
+  mlp_INDEPC_s128            fait en   48.2 min   [4/4]   écoulé   48.2 min
+TRANCHE F8 TERMINÉE — 4 courses dans resultats/tranche_F8.json
