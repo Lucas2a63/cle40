@@ -1,2 +1,7 @@
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche F10 : 4 courses, 0 déjà faites, 4 à faire, sur 4 processus
+  mlp_INDEPC_s138            fait en   33.4 min   [1/4]   écoulé   33.4 min
+  mlp_INDEPC_s137            fait en   33.4 min   [2/4]   écoulé   33.4 min
+  mlp_INDEPC_s136            fait en   33.5 min   [3/4]   écoulé   33.5 min
+  mlp_INDEPC_s139            fait en   33.5 min   [4/4]   écoulé   33.5 min
+TRANCHE F10 TERMINÉE — 4 courses dans resultats/tranche_F10.json
