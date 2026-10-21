@@ -1,2 +1,7 @@
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche F9 : 4 courses, 0 déjà faites, 4 à faire, sur 4 processus
+  mlp_INDEPC_s133            fait en   28.0 min   [1/4]   écoulé   28.0 min
+  mlp_INDEPC_s134            fait en   28.0 min   [2/4]   écoulé   28.0 min
+  mlp_INDEPC_s132            fait en   28.1 min   [3/4]   écoulé   28.1 min
+  mlp_INDEPC_s135            fait en   28.3 min   [4/4]   écoulé   28.3 min
+TRANCHE F9 TERMINÉE — 4 courses dans resultats/tranche_F9.json
