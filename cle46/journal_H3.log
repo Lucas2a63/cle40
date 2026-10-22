@@ -5,3 +5,4 @@ balayage40_choix.json : sha256 8e7c4ea62a0dc7b96778617d1e2c0092d1abd3daaad45c159
 machine : 4 cœurs, 15.3 Go disponibles, numpy 2.5.3
 tranche H3 : 10 courses, 2 déjà faites, 8 à faire, sur 4 processus
   cnn_SEUL10_s105            fait en   89.8 min   [3/10]   écoulé   89.8 min
+  cnn_SEUL10_s104            fait en   90.3 min   [4/10]   écoulé   90.3 min
