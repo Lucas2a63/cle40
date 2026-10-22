@@ -11,3 +11,5 @@ machine : 4 cœurs, 15.3 Go disponibles, numpy 2.5.3
 tranche H7 : 10 courses, 2 déjà faites, 8 à faire, sur 4 processus
   cnn_SEUL10_s112            fait en   93.3 min   [3/10]   écoulé   93.3 min
   cnn_SEUL10_s113            fait en   93.9 min   [4/10]   écoulé   93.9 min
+  cnn_SEUL_s112              fait en  104.3 min   [5/10]   écoulé  197.5 min
+  cnn_SEUL_s113              fait en  104.4 min   [6/10]   écoulé  198.3 min
