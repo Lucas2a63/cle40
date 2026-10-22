@@ -1,0 +1,868 @@
+{
+ "tranches": {
+  "H1": [
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 100,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 101,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 100,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 101,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 100,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 101,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 100,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 101,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 100,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 101,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "H2": [
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 102,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 103,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 102,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 103,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 102,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 103,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 102,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 103,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 102,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 103,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "H3": [
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 104,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 105,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 104,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 105,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 104,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 105,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 104,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 105,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 104,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 105,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "H4": [
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 106,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 107,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 106,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 107,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 106,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 107,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 106,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 107,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 106,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 107,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "H5": [
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 108,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 109,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 108,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 109,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 108,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 109,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 108,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 109,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 108,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 109,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "H6": [
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 110,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 111,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 110,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 111,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 110,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 111,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 110,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 111,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 110,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 111,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "H7": [
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 112,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 113,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 112,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 113,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 112,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 113,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 112,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 113,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 112,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 113,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "H8": [
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 114,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 115,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 114,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 115,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 114,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 115,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 114,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 115,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 114,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 115,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "H9": [
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 116,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 117,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 116,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 117,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 116,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 117,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 116,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 117,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 116,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 117,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "H10": [
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 118,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 119,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 118,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 119,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 118,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 119,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 118,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 119,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 118,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 119,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "H11": [
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 120,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 121,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 120,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 121,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 120,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 121,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 120,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 121,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 120,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 121,
+    "res": 32,
+    "taux": null
+   }
+  ],
+  "H12": [
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 122,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "INDEPC",
+    "arch": "cnn",
+    "seed": 123,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 122,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 123,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 122,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 123,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 122,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 123,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 122,
+    "res": 32,
+    "taux": null
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 123,
+    "res": 32,
+    "taux": null
+   }
+  ]
+ }
+}
