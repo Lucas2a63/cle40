@@ -12,3 +12,6 @@ tranche H1 : 10 courses, 2 déjà faites, 8 à faire, sur 4 processus
   cnn_SEUL_s101              fait en   97.2 min   [6/10]   écoulé  202.6 min
   cnn_COURT_s100             fait en    3.9 min   [7/10]   écoulé  204.5 min
   cnn_COURT_s101             fait en    3.9 min   [8/10]   écoulé  206.5 min
+  cnn_INDEPC_s100            fait en  309.3 min   [9/10]   écoulé  309.3 min
+  cnn_INDEPC_s101            fait en  309.6 min   [10/10]   écoulé  309.7 min
+TRANCHE H1 TERMINÉE — 10 courses dans resultats/tranche_H1.json
