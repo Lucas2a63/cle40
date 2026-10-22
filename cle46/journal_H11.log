@@ -1,3 +1,4 @@
 balayage40_choix.json : sha256 8e7c4ea62a0dc7b96778617d1e2c0092d1abd3daaad45c15987ec0abe2c096b6
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche H11 : 10 courses, 1 déjà faites, 9 à faire, sur 4 processus
+  cnn_GRAND_s121             fait en   65.5 min   [2/10]   écoulé   65.5 min
