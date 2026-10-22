@@ -1,3 +1,6 @@
 balayage40_choix.json : sha256 8e7c4ea62a0dc7b96778617d1e2c0092d1abd3daaad45c15987ec0abe2c096b6
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche H2 : 10 courses, 8 déjà faites, 2 à faire, sur 2 processus
+  cnn_INDEPC_s102            fait en  324.1 min   [9/10]   écoulé  324.1 min
+  cnn_INDEPC_s103            fait en  325.1 min   [10/10]   écoulé  325.1 min
+TRANCHE H2 TERMINÉE — 10 courses dans resultats/tranche_H2.json
