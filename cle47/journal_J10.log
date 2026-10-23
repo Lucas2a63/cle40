@@ -3,3 +3,4 @@ tranche J10 : 8 courses, 0 déjà faites, 8 à faire, sur 4 processus
 machine : 4 cœurs, 15.3 Go disponibles, numpy 2.5.3
 tranche J10 : 8 courses, 0 déjà faites, 8 à faire, sur 4 processus
   cnn_K8_s109                fait en  252.0 min   [1/8]   écoulé   98.2 min
+  cnn_K32_s109               fait en  306.5 min   [2/8]   écoulé  153.4 min
