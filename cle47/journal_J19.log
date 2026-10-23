@@ -2,3 +2,4 @@ machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche J19 : 8 courses, 0 déjà faites, 8 à faire, sur 4 processus
   cnn_K8_s118                fait en  219.6 min   [1/8]   écoulé  219.6 min
   cnn_K32_s118               fait en  267.0 min   [2/8]   écoulé  267.1 min
+  cnn_POPC_s118              fait en  270.1 min   [3/8]   écoulé  270.1 min
