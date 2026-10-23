@@ -9,3 +9,5 @@ tranche J8 : 8 courses, 0 déjà faites, 8 à faire, sur 4 processus
   cnn_K2_s107                fait en  208.9 min   [5/8]   écoulé  328.9 min
   cnn_TOILE_s107             fait en  163.2 min   [6/8]   écoulé  337.8 min
   cnn_SOUPE_s107             fait en  177.7 min   [7/8]   écoulé  349.5 min
+machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
+tranche J8 : 8 courses, 7 déjà faites, 1 à faire, sur 1 processus
