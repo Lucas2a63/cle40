@@ -1,0 +1,50 @@
+{
+ "identite_K1": {
+  "trajet": [
+   34,
+   0
+  ],
+  "fin_livre": true
+ },
+ "identite_VEILLEUR": {
+  "trajet": [
+   34,
+   0
+  ],
+  "fin_livre": true
+ },
+ "identite_SOUPE_parent": {
+  "trajet": [
+   17,
+   0
+  ],
+  "generations": 1
+ },
+ "durees": {
+  "SEUL10 (course_seul, 2 g\u00e9n\u00e9rations, avec mesures)": 199.98815774917603,
+  "K1": {
+   "s_par_pas": 0.02646172046661377,
+   "s_par_generation": 84.0
+  },
+  "K2": {
+   "s_par_pas": 0.05567418783903122,
+   "s_par_generation": 89.0
+  },
+  "K4": {
+   "s_par_pas": 0.11010240018367767,
+   "s_par_generation": 88.0
+  },
+  "K8": {
+   "s_par_pas": 0.22546172142028809,
+   "s_par_generation": 90.0
+  },
+  "K32": {
+   "s_par_pas": 1.0663365125656128,
+   "s_par_generation": 106.0
+  },
+  "POPC": {
+   "s_par_pas": 1.001195251941681,
+   "s_par_generation": 100.11952519416809
+  }
+ }
+}

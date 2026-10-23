@@ -1,0 +1,1204 @@
+{
+ "tranches": {
+  "J1": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 100,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 100,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 100,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 100,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 100,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 100,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 100,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 100,
+    "res": 32
+   }
+  ],
+  "J2": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 101,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 101,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 101,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 101,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 101,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 101,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 101,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 101,
+    "res": 32
+   }
+  ],
+  "J3": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 102,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 102,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 102,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 102,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 102,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 102,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 102,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 102,
+    "res": 32
+   }
+  ],
+  "J4": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 103,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 103,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 103,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 103,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 103,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 103,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 103,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 103,
+    "res": 32
+   }
+  ],
+  "J5": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 104,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 104,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 104,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 104,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 104,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 104,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 104,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 104,
+    "res": 32
+   }
+  ],
+  "J6": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 105,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 105,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 105,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 105,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 105,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 105,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 105,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 105,
+    "res": 32
+   }
+  ],
+  "J7": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 106,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 106,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 106,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 106,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 106,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 106,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 106,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 106,
+    "res": 32
+   }
+  ],
+  "J8": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 107,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 107,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 107,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 107,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 107,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 107,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 107,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 107,
+    "res": 32
+   }
+  ],
+  "J9": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 108,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 108,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 108,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 108,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 108,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 108,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 108,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 108,
+    "res": 32
+   }
+  ],
+  "J10": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 109,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 109,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 109,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 109,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 109,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 109,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 109,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 109,
+    "res": 32
+   }
+  ],
+  "J11": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 110,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 110,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 110,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 110,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 110,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 110,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 110,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 110,
+    "res": 32
+   }
+  ],
+  "J12": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 111,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 111,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 111,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 111,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 111,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 111,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 111,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 111,
+    "res": 32
+   }
+  ],
+  "J13": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 112,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 112,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 112,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 112,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 112,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 112,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 112,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 112,
+    "res": 32
+   }
+  ],
+  "J14": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 113,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 113,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 113,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 113,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 113,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 113,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 113,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 113,
+    "res": 32
+   }
+  ],
+  "J15": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 114,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 114,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 114,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 114,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 114,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 114,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 114,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 114,
+    "res": 32
+   }
+  ],
+  "J16": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 115,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 115,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 115,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 115,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 115,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 115,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 115,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 115,
+    "res": 32
+   }
+  ],
+  "J17": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 116,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 116,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 116,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 116,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 116,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 116,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 116,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 116,
+    "res": 32
+   }
+  ],
+  "J18": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 117,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 117,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 117,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 117,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 117,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 117,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 117,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 117,
+    "res": 32
+   }
+  ],
+  "J19": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 118,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 118,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 118,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 118,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 118,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 118,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 118,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 118,
+    "res": 32
+   }
+  ],
+  "J20": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 119,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 119,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 119,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 119,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 119,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 119,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 119,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 119,
+    "res": 32
+   }
+  ],
+  "J21": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 120,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 120,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 120,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 120,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 120,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 120,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 120,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 120,
+    "res": 32
+   }
+  ],
+  "J22": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 121,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 121,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 121,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 121,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 121,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 121,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 121,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 121,
+    "res": 32
+   }
+  ],
+  "J23": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 122,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 122,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 122,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 122,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 122,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 122,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 122,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 122,
+    "res": 32
+   }
+  ],
+  "J24": [
+   {
+    "bras": "K4P",
+    "arch": "cnn",
+    "seed": 123,
+    "res": 32
+   },
+   {
+    "bras": "POPC",
+    "arch": "cnn",
+    "seed": 123,
+    "res": 32
+   },
+   {
+    "bras": "K32",
+    "arch": "cnn",
+    "seed": 123,
+    "res": 32
+   },
+   {
+    "bras": "K8",
+    "arch": "cnn",
+    "seed": 123,
+    "res": 32
+   },
+   {
+    "bras": "K2",
+    "arch": "cnn",
+    "seed": 123,
+    "res": 32
+   },
+   {
+    "bras": "SOUPE",
+    "arch": "cnn",
+    "seed": 123,
+    "res": 32
+   },
+   {
+    "bras": "TOILE",
+    "arch": "cnn",
+    "seed": 123,
+    "res": 32
+   },
+   {
+    "bras": "VEILLEUR",
+    "arch": "cnn",
+    "seed": 123,
+    "res": 32
+   }
+  ]
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "reprise_K2": [
+  {
+   "arret": 2,
+   "coupee": true,
+   "identique": true
+  },
+  {
+   "arret": 6,
+   "coupee": true,
+   "identique": true
+  }
+ ],
+ "reprise_K4P": [
+  {
+   "arret": 2,
+   "coupee": true,
+   "identique": true
+  },
+  {
+   "arret": 6,
+   "coupee": true,
+   "identique": true
+  },
+  {
+   "arret": 9,
+   "coupee": true,
+   "identique": true
+  },
+  {
+   "arret": 13,
+   "coupee": true,
+   "identique": true
+  }
+ ],
+ "reprise_K8": [
+  {
+   "arret": 2,
+   "coupee": true,
+   "identique": true
+  },
+  {
+   "arret": 6,
+   "coupee": true,
+   "identique": true
+  }
+ ],
+ "reprise_K32": [
+  {
+   "arret": 2,
+   "coupee": true,
+   "identique": true
+  },
+  {
+   "arret": 6,
+   "coupee": true,
+   "identique": true
+  }
+ ],
+ "reprise_POPC": [
+  {
+   "arret": 1,
+   "coupee": true,
+   "identique": true
+  }
+ ],
+ "reprise_VEILLEUR": [
+  {
+   "arret": 2,
+   "coupee": true,
+   "identique": true
+  },
+  {
+   "arret": 5,
+   "coupee": true,
+   "identique": true
+  }
+ ],
+ "reprise_TOILE": [
+  {
+   "arret": 2,
+   "coupee": true,
+   "identique": true
+  },
+  {
+   "arret": 6,
+   "coupee": true,
+   "identique": true
+  }
+ ],
+ "reprise_SOUPE": [
+  {
+   "arret": 2,
+   "coupee": true,
+   "identique": true
+  },
+  {
+   "arret": 3,
+   "coupee": true,
+   "identique": true
+  },
+  {
+   "arret": 6,
+   "coupee": true,
+   "identique": true
+  }
+ ],
+ "identite_K1": {
+  "trajet": [
+   68,
+   0
+  ],
+  "fin_livre": true
+ },
+ "identite_VEILLEUR": {
+  "trajet": [
+   68,
+   0
+  ],
+  "fin_livre": true
+ },
+ "identite_SOUPE_parent": {
+  "trajet": [
+   34,
+   0
+  ],
+  "generations": 2
+ }
+}
