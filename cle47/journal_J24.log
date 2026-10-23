@@ -2,3 +2,4 @@ machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche J24 : 8 courses, 0 déjà faites, 8 à faire, sur 4 processus
   cnn_K8_s123                fait en  230.3 min   [1/8]   écoulé  230.3 min
   cnn_K32_s123               fait en  282.0 min   [2/8]   écoulé  282.0 min
+  cnn_POPC_s123              fait en  284.0 min   [3/8]   écoulé  284.0 min
