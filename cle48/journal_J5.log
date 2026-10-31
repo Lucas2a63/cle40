@@ -4,3 +4,6 @@ tranche J5 : 11 courses, 0 déjà faites, 11 à faire, sur 4 processus
   cnn_SEUL10_s128            fait en  147.0 min   [2/11]   écoulé  147.0 min
   cnn_TOILE4_s128            fait en  148.2 min   [3/11]   écoulé  148.2 min
   cnn_TOILE8_s128            fait en  148.3 min   [4/11]   écoulé  148.3 min
+  cnn_SEUL_Q_s104            fait en   36.3 min   [5/11]   écoulé  184.6 min
+  cnn_K4_Q_s104              fait en   38.4 min   [6/11]   écoulé  185.4 min
+  cnn_K2_Q_s104              fait en   38.2 min   [7/11]   écoulé  186.4 min
