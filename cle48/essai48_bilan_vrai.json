@@ -1,0 +1,61 @@
+{
+ "K2_47_contre_coupe48": [
+  8,
+  []
+ ],
+ "TOILE_47_contre_toile48": [
+  9,
+  []
+ ],
+ "SEUL10_contre_course_seul46": {
+  "trajet": [
+   34,
+   0
+  ],
+  "fin_livre": true,
+  "recycle": true
+ },
+ "SEUL_H_contre_course_seul46": {
+  "trajet": [
+   34,
+   0
+  ],
+  "fin_livre": true,
+  "recycle": true
+ },
+ "SEUL_Q_contre_course_seul46": {
+  "trajet": [
+   34,
+   0
+  ],
+  "fin_livre": true,
+  "recycle": true
+ },
+ "SEUL_S_contre_course_seul46": {
+  "trajet": [
+   34,
+   0
+  ],
+  "fin_livre": true,
+  "recycle": true
+ },
+ "eleve_PHOTO2_et_SEUL_H": {
+  "memes_poids_de_depart": true,
+  "generateurs_au_meme_etat": true,
+  "meme_monde": true,
+  "trajets_differents": true
+ },
+ "durees": {
+  "K1": {
+   "s_par_pas": 0.034876505533854164
+  },
+  "K2": {
+   "s_par_pas": 0.07004476586977641
+  },
+  "K4": {
+   "s_par_pas": 0.1621546745300293
+  },
+  "SEUL_S_2_generations_avec_mesures": 26.01767587661743,
+  "K4_S_2_generations_avec_mesures": 78.1787691116333
+ }
+}
