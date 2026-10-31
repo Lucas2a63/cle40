@@ -1,3 +1,5 @@
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche J24 : 11 courses, 0 déjà faites, 11 à faire, sur 4 processus
   cnn_PHOTO2_s147            fait en  223.5 min   [1/11]   écoulé  223.5 min
+  cnn_TOILE4_s147            fait en  278.7 min   [2/11]   écoulé  278.7 min
+  cnn_TOILE8_s147            fait en  279.0 min   [3/11]   écoulé  279.0 min
