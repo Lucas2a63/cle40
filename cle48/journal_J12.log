@@ -3,3 +3,6 @@ tranche J12 : 11 courses, 0 déjà faites, 11 à faire, sur 4 processus
 machine : 4 cœurs, 15.2 Go disponibles, numpy 2.5.3
 tranche J12 : 11 courses, 0 déjà faites, 11 à faire, sur 4 processus
   cnn_PHOTO2_s135            fait en  177.4 min   [1/11]   écoulé   57.6 min
+  cnn_TOILE4_s135            fait en  183.9 min   [2/11]   écoulé   65.0 min
+  cnn_SEUL10_s135            fait en  184.6 min   [3/11]   écoulé   65.6 min
+  cnn_TOILE8_s135            fait en  186.2 min   [4/11]   écoulé   66.0 min
